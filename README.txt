@@ -1,12 +1,15 @@
-In addition to the analysis and this README, I have submitted 10 jupyter notebooks.
-The data required is on my Google drive here: https://drive.google.com/drive/folders/1wCpUfY7UzAFZKetpzOWrYtPvHnFtSbBR?usp=sharing
-The README, analysis, and code can be found on my github here: https://github.com/bagnboost/cs7641
+Submission:
+In addition to the analysis and this README, the submission includes data inputs and code in 10 Jupyter notebooks.
 
-In order for the code to run successfully, please read the following:
-Each notebook has a directory input.
-The individual data files (csv) must be placed in a directory of your choice.
-The directory you choose needs to be written into the directory input in the notebooks.
-The notebooks and data is split by ncaa or nba.
-You may choose to place all of the files in one directory as long as the notebooks point to that directory.
-The way the code is written assumes the files prefixed by ncaa will be in the ncaa directory and the files prefixed by nba will be in the nba directory, but that is not necessary.
+Data:
+Data files are included in the Google Drive folder here:
+https://drive.google.com/drive/folders/1wCpUfY7UzAFZKetpzOWrYtPvHnFtSbBR?usp=sharing
 
+README, analysis, and code:
+Included in the Github repository here:
+https://github.com/bagnboost/cs7641
+
+Procedure for reproducing analyses:
+1. Pull/download data from the Google drive and code notebooks from Github.
+2. Place files in a directory of your choice.
+3. Each code notebook has a directory input. Set this directory input to the directory you use in step #2.

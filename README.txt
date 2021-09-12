@@ -1,7 +1,7 @@
 Submission:
 In addition to the analysis and this README, the submission includes data inputs and code in 10 Jupyter notebooks.
 
-1. [ncaa01_decision_tree.ipynb] ncaa01_decision_tree.ipynb
+1. ncaa01_decision_tree.ipynb
 2. ncaa02_neural_net.ipynb
 3. ncaa03_svm.ipynb
 4. ncaa04_knn.ipynb

@@ -1,6 +1,19 @@
 Submission:
 In addition to the analysis and this README, the submission includes data inputs and code in 10 Jupyter notebooks.
 
+1. [ncaa01_decision_tree.ipynb] ncaa01_decision_tree.ipynb
+2. ncaa02_neural_net.ipynb
+3. ncaa03_svm.ipynb
+4. ncaa04_knn.ipynb
+5. ncaa05_xgb.ipynb
+6. sensor01_decision_tree.ipynb
+7. sensor002_neural_net.ipynb
+8. sensor003_svm.ipynb
+9. sensor004_knn.ipynb
+10. sensor005_xgb.ipynb
+11. mpecorino3-analysis.pdf
+12. README.txt
+
 Data:
 Data files are included in the Google Drive folder here:
 https://drive.google.com/drive/folders/1wCpUfY7UzAFZKetpzOWrYtPvHnFtSbBR?usp=sharing

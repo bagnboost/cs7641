@@ -1,6 +1,8 @@
 Submission:
 In addition to the analysis and this README, the submission includes data inputs and code in 10 Jupyter notebooks.
 
+Files submitted:
+
 1. ncaa01_decision_tree.ipynb
 2. ncaa02_neural_net.ipynb
 3. ncaa03_svm.ipynb

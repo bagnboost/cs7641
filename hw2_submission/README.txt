@@ -9,7 +9,7 @@ Files submitted:
 4. 04_MIMIC.ipynb
 5. 05_Neural_Net_SENSOR.ipynb
 6. 06_Neural_Net_NCAAMBB.ipynb
-7. radom_opt_summaries.R
+7. random_opt_summaries.R
 8. mpecorino3-analysis.pdf
 9. README.txt
 

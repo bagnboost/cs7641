@@ -19,7 +19,7 @@ https://drive.google.com/drive/folders/1-V5suNRHhX1oMgYsKcPM3ixnMbbfRI52
 
 README, analysis, and code:
 Included in the Github repository here:
-https://github.com/bagnboost/cs7641/hw2_submission/
+https://github.com/bagnboost/cs7641/tree/master/hw2_submission/
 
 Procedure for reproducing analyses:
 1. Pull/download data from the Google drive and code from Github.
